@@ -5,7 +5,7 @@ public class SecondClassFile
 	public static void main(String[] args)
 	{
 	
-		System.out.println("Hello World.RTC fix_DEF12 fix_second!_UST15");
+		System.out.println("Hello World.RTC fix_DEF12 fix_second!_DEF30");
 		
 	}
 }
